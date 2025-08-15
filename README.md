@@ -1,1 +1,3 @@
 # Sentiment-Analysis-of-IMDb-Movie-Reviews
+
+This project performs sentiment analysis on IMDb movie reviews to classify them as positive or negative. The workflow includes text preprocessing (tokenization, stopword removal, stemming), feature extraction using TF-IDF, and model building with machine learning algorithms such as Logistic Regression, Naive Bayes, and SVM. The models were evaluated using accuracy and F1-score, with Logistic Regression delivering the best results. This project demonstrates the application of Natural Language Processing (NLP) in understanding audience opinions and can be extended with deep learning approaches or deployed as a simple review classification tool.
