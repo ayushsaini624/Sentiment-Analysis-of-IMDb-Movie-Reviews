@@ -73,43 +73,9 @@ Steps performed on raw reviews:
 
 ---
 
-## 🚀 How to Run the Project  
-
-### 1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/Sentiment-Analysis-of-IMDb-Movie-Reviews.git
-cd Sentiment-Analysis-of-IMDb-Movie-Reviews
-```
-
-### 2️⃣ Install dependencies  
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the notebook  
-Open the Jupyter Notebook and execute step by step:  
-```bash
-jupyter notebook "Project A (IMDb Movie Review Sentiment Analysis).ipynb"
-```
-
----
-
 ## 📌 Future Enhancements  
 - Use **word embeddings** (Word2Vec, GloVe, FastText)  
 - Implement **deep learning models** (LSTMs, GRU, BERT) for better accuracy  
 - Deploy as a **web app** for real-time sentiment prediction  
 
 ---
-
-## 📷 Screenshots  
-(Add the result screenshots you shared earlier here in the repo and reference them like below)  
-
-![Confusion Matrix](screenshots/sentiment_confusion_matrix.png)  
-![Classification Report](screenshots/sentiment_classification_report.png)  
-
----
-
-## ✨ Author  
-**Ayush Saini**  
-- Data Science Enthusiast | Machine Learning | NLP  
-- [LinkedIn](#) | [GitHub](#)  
